@@ -57,7 +57,7 @@ Docker should be pre-installed in most regions docker --version
 
 AWS CloudShell has AWS CLI pre-installed aws --version
 
-Python3 should be pre-installed also python3 --version
+Python3 should be pre-installed also python --version
 
 ## **3** Retrieve AWS Account ID
 
