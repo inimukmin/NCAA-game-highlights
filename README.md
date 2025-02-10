@@ -72,7 +72,7 @@ You will not be able to retrieve your secret access key so if you don't have tha
 
 ## **Technical Diagram**
 
-![GameHighlightProcessor](https://github.com/user-attachments/assets/762c3582-c6fe-48b2-b7da-0ff5b86b7970)
+![NCAA-game-highlights-architecture](https://github.com/user-attachments/assets/7a3e50e1-3d44-4eb8-bba5-9197dab3a60c)
 
 ## **Project Structure**
 
